@@ -1,7 +1,7 @@
 
 import json
 
-from PyQt5.QtWidgets import *
+from PytQ5.QtWidgets import *
 
 notes = {}
 
